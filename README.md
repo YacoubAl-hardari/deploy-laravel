@@ -1,6 +1,6 @@
 # Deploy Laravel
 Production-ready zero-downtime deployment script for Laravel.
-
+https://www.bargush.me/blog/automate-deplyment-to-digitalocean-with-github-actions/
 ## Install
 Visit the link below for the download and the installation guide:
 - [Deploy Laravel for GitHub Actions](https://sjorso.com/deploy-laravel/github/step-1)
